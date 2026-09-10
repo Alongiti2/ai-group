@@ -1,0 +1,932 @@
+{
+  "meta": {
+    "home": {
+      "title": "AI-Group — Secure Software, Intelligent Architecture, Global Solutions",
+      "desc": "AI-Group Software and Networks Algorithms LLC designs, builds, secures, and scales software, cloud, database, and AI solutions for organizations worldwide."
+    },
+    "services": {
+      "title": "Services — AI-Group",
+      "desc": "Software development, architecture, cybersecurity, cloud engineering, database engineering, and AI solutions."
+    },
+    "process": {
+      "title": "How we work — AI-Group",
+      "desc": "Our 18-step software engineering lifecycle, from discovery to continuous improvement."
+    },
+    "industries": {
+      "title": "Industries — AI-Group",
+      "desc": "Technology solutions for financial services, healthcare, education, e-commerce, government, nonprofits, and more."
+    },
+    "global": {
+      "title": "Global services — AI-Group",
+      "desc": "Remote software and cybersecurity services for clients in every country of the world."
+    },
+    "departments": {
+      "title": "Departments — AI-Group",
+      "desc": "AI-Group's departments: AI Cloud Security Solutions, Digital Business Hub, Principal Cybersecurity, Software Engineering, and AI-Global Educational Network."
+    },
+    "education": {
+      "title": "AI-Global Educational Network — AI-Group",
+      "desc": "AI-GEN: multilingual technology education for learners in every country. Career pathways in cybersecurity, cloud, development, data, and AI."
+    },
+    "security": {
+      "title": "Security — AI-Group",
+      "desc": "How we build secure software: OWASP, secure SDLC, least privilege, zero trust."
+    },
+    "about": {
+      "title": "About — AI-Group",
+      "desc": "Founded in 2023 in Bellevue, Washington. Led by a senior cybersecurity engineer with 20+ years of experience."
+    },
+    "contact": {
+      "title": "Contact — AI-Group",
+      "desc": "Request a consultation or send us a message. We reply in English, French, Portuguese, or Spanish."
+    },
+    "start": {
+      "title": "Start your project — AI-Group",
+      "desc": "Tell us about your project and receive a project request ID immediately."
+    },
+    "privacy": {
+      "title": "Privacy policy — AI-Group",
+      "desc": "How AI-Group handles personal data."
+    },
+    "terms": {
+      "title": "Terms of service — AI-Group",
+      "desc": "Terms governing use of the AI-Group website."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "process": "Process",
+    "industries": "Industries",
+    "global": "Global",
+    "departments": "Departments",
+    "education": "AI-GEN",
+    "security": "Security",
+    "about": "About",
+    "contact": "Contact",
+    "start": "Start your project",
+    "login": "Client login",
+    "loginSoon": "The client portal is coming soon. Existing clients can reach us by email.",
+    "menu": "Menu",
+    "langLabel": "Language",
+    "skip": "Skip to content"
+  },
+  "footer": {
+    "company": "Company",
+    "servicesCol": "Services",
+    "resources": "Resources",
+    "legal": "Legal",
+    "privacy": "Privacy policy",
+    "terms": "Terms of service",
+    "cookies": "Cookies",
+    "remote": "Serving clients remotely worldwide.",
+    "rights": "All rights reserved.",
+    "founded": "Founded 2023 · Bellevue, Washington, USA"
+  },
+  "common": {
+    "learnMore": "Learn more",
+    "getStarted": "Start your project",
+    "consult": "Request a consultation",
+    "assistant": "Ask a question",
+    "email": "Email",
+    "phone": "Phone",
+    "seeAll": "See all services",
+    "readProcess": "See how we work",
+    "back": "Back to home",
+    "education": "See all departments"
+  },
+  "home": {
+    "kicker": "Software · Architecture · Cybersecurity · Cloud · Data · AI · Education",
+    "h1": "Secure software. Intelligent architecture. Global solutions.",
+    "sub": "We design, build, secure, and scale software solutions for organizations in every country of the world.",
+    "clocksTitle": "Working across time zones, right now",
+    "clocks": [
+      [
+        "Seattle",
+        "America/Los_Angeles"
+      ],
+      [
+        "São Paulo",
+        "America/Sao_Paulo"
+      ],
+      [
+        "Paris",
+        "Europe/Paris"
+      ],
+      [
+        "Kinshasa",
+        "Africa/Kinshasa"
+      ],
+      [
+        "Dubai",
+        "Asia/Dubai"
+      ],
+      [
+        "Singapore",
+        "Asia/Singapore"
+      ]
+    ],
+    "introTitle": "A technology company built on security first",
+    "intro": "AI-Group Software and Networks Algorithms LLC is a Bellevue, Washington company founded in 2023, serving clients in every country. We build software the way a security team would want it built: threat-modeled before the first line of code, tested before it ships, and monitored after it goes live. We work in English, French, Portuguese, and Spanish with individuals, startups, small businesses, corporations, nonprofits, and educational organizations.",
+    "servicesTitle": "What we do",
+    "whyTitle": "Why organizations choose us",
+    "why": [
+      [
+        "Security is the starting point",
+        "Every engagement begins with threat modeling and ends with security testing. Cybersecurity is our founding discipline, not an add-on."
+      ],
+      [
+        "Senior engineering, direct access",
+        "You work with senior engineers who hold CISSP, CCSP, PCNSE, and AWS Solutions Architect Professional certifications, not a sales layer."
+      ],
+      [
+        "Four languages, one team",
+        "Requirements, documentation, and support in English, French, Portuguese, or Spanish, so nothing is lost in translation."
+      ],
+      [
+        "Built to grow",
+        "Modular, API-first architecture that scales from a first release to thousands of users without a rewrite."
+      ]
+    ],
+    "capTitle": "Core capabilities",
+    "caps": [
+      [
+        "Cybersecurity",
+        "Secure development, application and API security, cloud security, vulnerability management, detection engineering, incident response solutions, and zero-trust architecture."
+      ],
+      [
+        "Cloud",
+        "AWS, Microsoft Azure, and Google Cloud: migration, Kubernetes, serverless, infrastructure as code with Terraform, CI/CD, backup and disaster recovery."
+      ],
+      [
+        "AI",
+        "AI assistants, retrieval-augmented knowledge systems, workflow automation, document processing, and AI security automation, built with AI treated as an untrusted subsystem."
+      ]
+    ],
+    "educationTitle": "One company, several departments",
+    "educationText": "AI-Group Software and Networks Algorithms LLC operates through specialized departments, each with its own team and its own site.",
+    "techTitle": "Technologies we work with",
+    "tech": [
+      "TypeScript",
+      "Next.js",
+      "React",
+      "NestJS",
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "AWS",
+      "Azure",
+      "Google Cloud",
+      "GitHub Actions",
+      "React Native"
+    ],
+    "processTitle": "A disciplined process, visible to you",
+    "processText": "Every project follows an 18-step lifecycle, from discovery and threat modeling through deployment, monitoring, and continuous improvement. You always know which stage your project is in.",
+    "faqTitle": "Frequently asked questions",
+    "faq": [
+      [
+        "Where are you located, and where do you serve?",
+        "We are registered in Bellevue, Washington, and serve clients remotely in every country of the world: Africa, Europe, the Americas, Asia, the Middle East, and Oceania."
+      ],
+      [
+        "Which languages do you work in?",
+        "English, French, Portuguese, and Spanish. You can switch the site language at any time from the language selector."
+      ],
+      [
+        "How does a project start?",
+        "Fill out the Start your project form. You receive a project request ID immediately, and we reply with next steps and a consultation time."
+      ],
+      [
+        "Can you secure an application we already have?",
+        "Yes. Security assessments, secure code review, cloud security reviews, and vulnerability management are available for existing systems."
+      ],
+      [
+        "What is AI-GEN?",
+        "AI-Global Educational Network is our technology education initiative: career pathways, certification preparation, and portfolio projects for learners around the world."
+      ],
+      [
+        "Do you provide pricing online?",
+        "No. Every project is scoped individually. We only quote after understanding your requirements."
+      ]
+    ],
+    "ctaTitle": "Ready to build something secure?",
+    "ctaText": "Tell us about your project. We reply in your language."
+  },
+  "services": {
+    "h1": "Services",
+    "sub": "Engineering, architecture, security, cloud, data, and AI, delivered by one accountable team.",
+    "categories": [
+      {
+        "id": "software",
+        "name": "Software development",
+        "desc": "Custom software built for your business, from internal tools to public SaaS platforms.",
+        "items": [
+          "Custom software development",
+          "Web application development",
+          "Mobile application development",
+          "Enterprise software",
+          "SaaS development",
+          "API development",
+          "Application modernization",
+          "Legacy software migration",
+          "Microservices",
+          "Desktop applications",
+          "Internal business applications"
+        ]
+      },
+      {
+        "id": "architecture",
+        "name": "Software architecture",
+        "desc": "Systems designed to be reliable, scalable, and understandable before they are built.",
+        "items": [
+          "Solution architecture",
+          "Enterprise architecture",
+          "Cloud architecture",
+          "Application architecture",
+          "Distributed systems",
+          "Microservices architecture",
+          "Event-driven architecture",
+          "API architecture",
+          "High-availability architecture",
+          "Scalability engineering",
+          "Performance architecture"
+        ]
+      },
+      {
+        "id": "cybersecurity",
+        "name": "Cybersecurity",
+        "desc": "Our founding discipline: protecting software, cloud, data, and identities.",
+        "items": [
+          "Secure software development",
+          "Application security",
+          "Cloud security",
+          "API security",
+          "DevSecOps",
+          "Vulnerability management",
+          "Security architecture",
+          "Security assessments",
+          "Secure code review",
+          "Penetration testing coordination",
+          "Incident response solutions",
+          "Security automation",
+          "Identity and access management",
+          "Zero trust architecture",
+          "Data protection",
+          "Database security",
+          "Threat detection",
+          "Security monitoring",
+          "Compliance automation"
+        ]
+      },
+      {
+        "id": "cloud",
+        "name": "Cloud engineering",
+        "desc": "AWS, Microsoft Azure, and Google Cloud, built with infrastructure as code.",
+        "items": [
+          "Cloud migration",
+          "Infrastructure architecture",
+          "Kubernetes",
+          "Containers",
+          "Serverless architecture",
+          "Cloud security",
+          "Cloud optimization",
+          "Backup and disaster recovery",
+          "Infrastructure as code",
+          "Terraform",
+          "CI/CD"
+        ]
+      },
+      {
+        "id": "database",
+        "name": "Database engineering",
+        "desc": "PostgreSQL, MySQL, SQL Server, Oracle, MongoDB, Redis, vector and cloud-managed databases.",
+        "items": [
+          "Database architecture",
+          "Schema design and data modeling",
+          "Performance and query optimization",
+          "Database security and encryption",
+          "Backup and disaster recovery",
+          "Replication and high availability",
+          "Migration",
+          "Auditing"
+        ]
+      },
+      {
+        "id": "ai",
+        "name": "Artificial intelligence",
+        "desc": "AI applications that respect your data, your customers, and your security boundaries.",
+        "items": [
+          "AI application development",
+          "AI assistants and customer support bots",
+          "Voice AI",
+          "Generative AI",
+          "RAG systems",
+          "Enterprise knowledge assistants",
+          "Workflow automation",
+          "AI document processing",
+          "AI cybersecurity automation",
+          "Predictive analytics",
+          "Recommendation systems",
+          "Intelligent search",
+          "AI agents"
+        ]
+      }
+    ],
+    "engagementTitle": "Engagement models",
+    "engagement": [
+      [
+        "Fixed-scope project",
+        "A defined deliverable, timeline, and price after discovery."
+      ],
+      [
+        "Dedicated team",
+        "Ongoing engineering capacity for products that keep evolving."
+      ],
+      [
+        "Advisory and assessment",
+        "Architecture reviews, security assessments, and roadmaps."
+      ]
+    ]
+  },
+  "process": {
+    "h1": "How we work",
+    "sub": "Eighteen steps, in order. Clients follow their project through each stage.",
+    "steps": [
+      [
+        "Discovery",
+        "We learn your business, users, constraints, and goals."
+      ],
+      [
+        "Business requirements",
+        "What the system must achieve, in plain language, agreed with you."
+      ],
+      [
+        "Technical requirements",
+        "Platforms, integrations, performance, security, and compliance needs."
+      ],
+      [
+        "Feasibility analysis",
+        "Risks, options, and trade-offs before committing."
+      ],
+      [
+        "System architecture",
+        "Components, boundaries, and how they communicate."
+      ],
+      [
+        "Database architecture",
+        "Entities, relationships, constraints, and indexes."
+      ],
+      [
+        "UI/UX design",
+        "Accessible, responsive interfaces validated with you."
+      ],
+      [
+        "Threat modeling",
+        "Assets, actors, trust boundaries, and controls, using STRIDE."
+      ],
+      [
+        "Development",
+        "Modular, reviewed, typed code with no hard-coded secrets."
+      ],
+      [
+        "Code review",
+        "Every change reviewed for correctness, security, and maintainability."
+      ],
+      [
+        "Automated testing",
+        "Unit, integration, API, and end-to-end tests on critical paths."
+      ],
+      [
+        "Security testing",
+        "Dependency, secret, static, and dynamic scanning; authorization tests."
+      ],
+      [
+        "Performance testing",
+        "Load, query, and Core Web Vitals measurement."
+      ],
+      [
+        "User acceptance testing",
+        "You verify the system does what was agreed."
+      ],
+      [
+        "Production deployment",
+        "Infrastructure as code, CI/CD, and a documented rollback plan."
+      ],
+      [
+        "Monitoring",
+        "Logs, alerts, and dashboards for errors, security events, and availability."
+      ],
+      [
+        "Maintenance",
+        "Patching, dependency updates, and backups that are actually tested."
+      ],
+      [
+        "Continuous improvements",
+        "Measured iteration based on real usage."
+      ]
+    ]
+  },
+  "industries": {
+    "h1": "Industries",
+    "sub": "The same engineering discipline, applied to the constraints of your sector.",
+    "note": "We describe capabilities, not certifications. Regulatory compliance claims are only made after they have been verified for a specific engagement.",
+    "items": [
+      [
+        "Financial services",
+        "Secure transaction systems, API security, audit logging, and data protection."
+      ],
+      [
+        "Healthcare technology",
+        "Privacy-conscious applications, access control, and encrypted data handling."
+      ],
+      [
+        "Education",
+        "Multilingual learning platforms, student portals, and secure identity."
+      ],
+      [
+        "E-commerce",
+        "Storefronts, payment integrations with trusted processors, and fraud-aware design."
+      ],
+      [
+        "Government",
+        "Accessible services, tenant isolation, and immutable audit trails where appropriate."
+      ],
+      [
+        "Nonprofits",
+        "Cost-conscious cloud architecture and donor and member management systems."
+      ],
+      [
+        "Professional services",
+        "Client portals, document exchange, and scheduling."
+      ],
+      [
+        "Manufacturing",
+        "Operational dashboards, integrations, and industrial data pipelines."
+      ],
+      [
+        "Logistics and transportation",
+        "Tracking systems, route data, and real-time notifications."
+      ],
+      [
+        "Retail",
+        "Inventory, point-of-sale integrations, and customer analytics."
+      ],
+      [
+        "Real estate",
+        "Listing platforms, document workflows, and CRM."
+      ],
+      [
+        "Hospitality",
+        "Booking systems, multilingual guest experiences, and payments."
+      ],
+      [
+        "Telecommunications",
+        "High-availability services, network security, and monitoring."
+      ],
+      [
+        "Startups",
+        "MVPs built on an architecture that will not need to be thrown away."
+      ]
+    ]
+  },
+  "global": {
+    "h1": "Global services",
+    "sub": "Serving clients remotely in every country of the world. We meet in your time zone and work in your language.",
+    "regions": [
+      [
+        "Africa",
+        "Every African market",
+        "French-, Portuguese-, English-, and Spanish-speaking markets, with remote delivery and mobile-first design."
+      ],
+      [
+        "Europe",
+        "European Union, United Kingdom, and other European markets",
+        "Engagements in French, Spanish, Portuguese, and English, with privacy-by-design architecture for European processing."
+      ],
+      [
+        "The Americas",
+        "Latin America, the Caribbean, and North America",
+        "Spanish- and Portuguese-language engagements across the region, with meeting times that work for the whole continent."
+      ],
+      [
+        "Asia and Pacific",
+        "From South Asia to Oceania",
+        "Remote delivery with English documentation and meetings scheduled in your working hours."
+      ],
+      [
+        "Middle East",
+        "Gulf, Levant, and North Africa",
+        "Cloud architecture and cybersecurity for organizations in the region, in English or French."
+      ],
+      [
+        "Everywhere else",
+        "Every country",
+        "If you have an internet connection, we can work together. There is no geographic restriction."
+      ]
+    ],
+    "howTitle": "How remote delivery works",
+    "how": [
+      [
+        "Consultations in your time zone",
+        "Meeting times are shown in your local time. We schedule in any time zone in the world."
+      ],
+      [
+        "Documentation in your language",
+        "Requirements, proposals, and reports in English, French, Portuguese, or Spanish."
+      ],
+      [
+        "Secure collaboration",
+        "Encrypted document exchange, secure messaging, and role-based access for your team."
+      ]
+    ],
+    "officeNote": "We do not operate physical offices outside Washington State. All international services are delivered remotely."
+  },
+  "departments": {
+    "h1": "Departments",
+    "sub": "One company, several specialized departments. Each department has its own focus, its own team, and its own site.",
+    "visit": "Visit the department site",
+    "partOf": "A department of AI-Group Software and Networks Algorithms LLC.",
+    "items": [
+      [
+        "AI Cloud Security Solutions",
+        "Cybersecurity, cloud protection, database security, and security automation for organizations of every size.",
+        "https://alongiti2.github.io/",
+        true
+      ],
+      [
+        "Digital Business Hub",
+        "Complete business launch platform: domain, website, email, phone, virtual address, AI receptionist, and cybersecurity, in one package.",
+        "https://alongiti2.github.io/digital-business-hub/",
+        true
+      ],
+      [
+        "Principal Cybersecurity",
+        "Principal-level security leadership: virtual CISO, security architecture, risk and compliance programs, incident readiness, and executive reporting for organizations that need senior expertise without a full-time hire.",
+        "contact.html?topic=principal",
+        false
+      ],
+      [
+        "Software Engineering",
+        "Custom software, web and mobile applications, SaaS platforms, APIs, and application modernization, built with a security-first, 18-step engineering lifecycle.",
+        "services.html#software",
+        false
+      ],
+      [
+        "AI-Global Educational Network",
+        "AI-GEN: technology education for learners in every country, in four languages. Career pathways, certification preparation, and portfolios.",
+        "education.html",
+        false
+      ]
+    ]
+  },
+  "education": {
+    "h1": "AI-Global Educational Network",
+    "sub": "A department of AI-Group Software and Networks Algorithms LLC. AI-GEN: technology education for learners in every country, in English, French, Portuguese, and Spanish.",
+    "intro": "AI-Global Educational Network is AI-Group's education initiative. It brings the same engineering discipline we apply to client systems into the classroom: clear career pathways, guided practice, certification preparation, and a real portfolio at the end of every pathway. Teaching is delivered remotely, in your language and your time zone.",
+    "pathwaysTitle": "Career pathways",
+    "pathwaysText": "Each pathway leads to a specific role. Courses are taken in order, and each one ends with a project that stays in the learner's portfolio.",
+    "pathways": [
+      [
+        "Cybersecurity analyst",
+        "Network and systems fundamentals, threat detection, SIEM, incident response, and vulnerability management."
+      ],
+      [
+        "Cloud and DevOps engineer",
+        "AWS, Azure, and Google Cloud, containers, Kubernetes, infrastructure as code, and CI/CD pipelines."
+      ],
+      [
+        "Full-stack developer",
+        "JavaScript and TypeScript, React, Node.js APIs, databases, and secure development."
+      ],
+      [
+        "Data analyst",
+        "SQL, Python, visualization, applied statistics, and dashboards for decision-making."
+      ],
+      [
+        "AI engineer",
+        "Machine learning, language models, RAG systems, AI agents, and AI security."
+      ]
+    ],
+    "modelTitle": "How a learner progresses",
+    "model": [
+      [
+        "Orientation assessment",
+        "A short questionnaire recommends the pathway that best fits the learner's profile and goals."
+      ],
+      [
+        "Guided courses",
+        "Short lessons in the chosen language, with hands-on exercises in every module."
+      ],
+      [
+        "Labs and projects",
+        "Every course ends with a real project that is added to the portfolio."
+      ],
+      [
+        "Certification preparation",
+        "Study tracks aligned with recognized industry certifications. AI-GEN is not affiliated with the certifying bodies."
+      ],
+      [
+        "Skills passport",
+        "A verifiable summary of completed courses, projects, and competencies, ready to share with employers."
+      ]
+    ],
+    "audienceTitle": "Who it is for",
+    "audience": [
+      [
+        "Students and recent graduates",
+        "A clear first pathway into a technology job."
+      ],
+      [
+        "Career changers",
+        "Adults moving into technology who need a concrete plan that fits around work."
+      ],
+      [
+        "Schools and universities",
+        "Multilingual content and progress tracking to complement existing programs."
+      ],
+      [
+        "Companies and nonprofits",
+        "Staff training in cybersecurity, cloud, and data, with progress reporting."
+      ]
+    ],
+    "reachTitle": "Present in every country",
+    "reachText": "AI-GEN is delivered remotely to learners in every country. Courses, interface, and support are available in English, French, Portuguese, and Spanish, with more languages planned.",
+    "statusTitle": "Current status",
+    "statusText": "The AI-GEN platform is in development. The first cohorts will open to individuals and institutions who join the waiting list. No payment is requested during this phase.",
+    "ctaTitle": "Join the AI-GEN waiting list",
+    "ctaText": "Tell us your country, your language, and the pathway you are interested in. We will let you know when the first cohort opens.",
+    "cta": "Join the waiting list"
+  },
+  "security": {
+    "h1": "Security",
+    "sub": "How we build, and what we protect against.",
+    "principlesTitle": "Principles we follow",
+    "principles": [
+      "OWASP Top 10 and OWASP API Security Top 10",
+      "Secure software development lifecycle",
+      "Least privilege",
+      "Zero trust",
+      "Defense in depth",
+      "Secrets in managed vaults, never in code"
+    ],
+    "controlsTitle": "Controls in every system we deliver",
+    "controls": [
+      [
+        "Authentication",
+        "Password hashing with Argon2id or bcrypt, MFA, session management, protection against credential stuffing and account enumeration."
+      ],
+      [
+        "Authorization",
+        "Role-based access control checked server-side. Tenant isolation tested, with PostgreSQL row-level security where appropriate."
+      ],
+      [
+        "Data protection",
+        "TLS 1.2+ everywhere, encryption at rest, key management with cloud KMS, UTC timestamps, decimal money types."
+      ],
+      [
+        "Application security",
+        "Input validation, output encoding, CSRF protection, security headers, rate limiting, and safe file handling with malware scanning."
+      ],
+      [
+        "AI security",
+        "AI treated as an untrusted subsystem: limited tools, prompt-injection defenses, no cross-customer data, no AI-authored prices or commitments."
+      ],
+      [
+        "Operations",
+        "Structured logging without secrets, tamper-resistant audit logs, tested backups, and documented recovery with defined RPO and RTO."
+      ]
+    ],
+    "pipelineTitle": "What our CI/CD pipeline checks",
+    "pipeline": [
+      "Formatting and linting",
+      "Unit and integration tests",
+      "Dependency scanning",
+      "Secret scanning",
+      "Static security scanning",
+      "Container scanning",
+      "Infrastructure scanning",
+      "Build and deploy"
+    ],
+    "disclosureTitle": "Reporting a vulnerability",
+    "disclosure": "If you believe you have found a security issue in one of our systems, please email us with the details. We acknowledge reports promptly and will not pursue action against good-faith researchers."
+  },
+  "about": {
+    "h1": "About AI-Group",
+    "sub": "A software, networks, and cybersecurity company founded in 2023 in Bellevue, Washington, serving clients worldwide.",
+    "story": "AI-Group Software and Networks Algorithms LLC was created to bring enterprise-grade security engineering to organizations of every size. The company combines software architecture, application development, cloud engineering, database engineering, and artificial intelligence, with cybersecurity as the discipline that ties them together. Through AI-Global Educational Network (AI-GEN), it also trains the next generation of technology professionals.",
+    "founderTitle": "Leadership",
+    "founderName": "Delphin — Founder and Principal Engineer",
+    "founder": "Senior cybersecurity engineer with more than 20 years of experience across incident response, SIEM and detection engineering, cloud security architecture on AWS, Azure, and Google Cloud, and vulnerability management. Holds a Master of Science in Computer Science and Network Engineering. Fluent in English and French.",
+    "certsTitle": "Certifications",
+    "certs": [
+      "CISSP — Certified Information Systems Security Professional",
+      "CCSP — Certified Cloud Security Professional",
+      "PCNSE — Palo Alto Networks Certified Network Security Engineer",
+      "AWS Certified Solutions Architect – Professional"
+    ],
+    "valuesTitle": "What we stand for",
+    "values": [
+      [
+        "Honesty about scope",
+        "No pricing, timelines, or compliance claims we cannot back up."
+      ],
+      [
+        "Security without theater",
+        "Real controls, tested. No placeholder security."
+      ],
+      [
+        "Clarity",
+        "Documentation you can read, in your language."
+      ],
+      [
+        "Longevity",
+        "Systems designed to be maintained by someone other than us."
+      ]
+    ],
+    "portfolioTitle": "Open work",
+    "portfolioText": "Selected engineering and security projects are published on GitHub."
+  },
+  "contact": {
+    "h1": "Contact",
+    "sub": "Send a message or request a consultation. We reply in English, French, Portuguese, or Spanish.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "company": "Company (optional)",
+      "country": "Country",
+      "category": "Topic",
+      "message": "Message",
+      "consent": "I agree to be contacted about this request.",
+      "submit": "Send message",
+      "sending": "Sending…",
+      "sent": "Message sent. We reply within one business day.",
+      "fallback": "Opening your email app with the message pre-filled. If nothing happens, email us directly at",
+      "error": "The message could not be sent. Please email us directly at",
+      "required": "This field is required.",
+      "invalidEmail": "Enter a valid email address."
+    },
+    "categories": [
+      "General inquiry",
+      "Software project",
+      "Cybersecurity",
+      "Cloud architecture",
+      "Database",
+      "AI solution",
+      "Mobile app",
+      "AI-GEN — education",
+      "Existing customer support",
+      "Partnership",
+      "Careers",
+      "Billing"
+    ],
+    "consultTitle": "Consultations",
+    "consultText": "Software, cybersecurity, architecture, database, cloud, and AI consultations are available by video call in your local time zone. Request one through the form and propose two or three times that work for you.",
+    "assistantTitle": "AI assistant",
+    "assistantText": "A 24/7 multilingual AI assistant is planned for this site. Until it launches, our team answers every message personally."
+  },
+  "start": {
+    "h1": "Start your project",
+    "sub": "Answer what you can. You receive a request ID immediately and a personal reply within one business day.",
+    "sections": [
+      "About you",
+      "Your project",
+      "Technology and security",
+      "Budget and timing"
+    ],
+    "f": {
+      "name": "Full name",
+      "company": "Company",
+      "country": "Country",
+      "email": "Email",
+      "phone": "Phone",
+      "language": "Preferred language",
+      "size": "Company size",
+      "industry": "Industry",
+      "type": "Project type",
+      "description": "Project description",
+      "problem": "Business problem you want to solve",
+      "users": "Target users",
+      "platforms": "Required platforms",
+      "existingTech": "Existing technology",
+      "desiredTech": "Desired technology (if known)",
+      "securityReq": "Security requirements",
+      "complianceReq": "Compliance requirements",
+      "integrations": "Integrations",
+      "budget": "Approximate budget range",
+      "startDate": "Desired start",
+      "endDate": "Target completion",
+      "attachments": "Attachments",
+      "attachNote": "Attach files to the confirmation email you receive, or share a link here.",
+      "contactMethod": "Preferred contact method",
+      "consent": "I agree to be contacted about this project request.",
+      "submit": "Send project request",
+      "select": "Select…"
+    },
+    "sizes": [
+      "Individual",
+      "1–10",
+      "11–50",
+      "51–200",
+      "201–1000",
+      "1000+"
+    ],
+    "types": [
+      "Website",
+      "Web application",
+      "Mobile application",
+      "SaaS",
+      "Cybersecurity platform",
+      "Cloud migration",
+      "Database system",
+      "API",
+      "AI application",
+      "Automation",
+      "Enterprise system",
+      "Other"
+    ],
+    "platforms": [
+      "Web",
+      "Android",
+      "iOS",
+      "Desktop",
+      "API only"
+    ],
+    "budgets": [
+      "Under $10,000",
+      "$10,000 – $25,000",
+      "$25,000 – $75,000",
+      "$75,000 – $200,000",
+      "Over $200,000",
+      "Not sure yet"
+    ],
+    "contactMethods": [
+      "Email",
+      "Phone",
+      "Video call"
+    ],
+    "successTitle": "Request received",
+    "successText": "Your project request ID is",
+    "successNext": "Keep this ID for reference. We will reply to your email within one business day with next steps.",
+    "fallbackText": "Your email app should open with the request pre-filled. Send it to complete your request. If it does not open, email us at"
+  },
+  "privacy": {
+    "h1": "Privacy policy",
+    "updated": "Last updated: September 2026",
+    "body": [
+      [
+        "What we collect",
+        "When you contact us or submit a project request, we collect the information you provide: name, email, phone, company, country, preferred language, and project details. This website does not use advertising trackers."
+      ],
+      [
+        "Why we use it",
+        "To respond to your request, prepare proposals, and deliver services. We do not sell personal data."
+      ],
+      [
+        "Storage and security",
+        "Messages are transmitted over HTTPS. Request data is stored in our business systems with access limited to staff who need it."
+      ],
+      [
+        "Your rights",
+        "You may ask us to access, correct, or delete your personal data by emailing us. Depending on your country of residence, applicable law may give you additional rights; we honor those requests where they apply."
+      ],
+      [
+        "Cookies",
+        "This site stores only your language preference in your browser. No analytics or marketing cookies are set without consent."
+      ],
+      [
+        "Compliance note",
+        "We design with GDPR and the privacy laws applicable in each country where our clients operate in mind. We do not claim certification under any regime until legal and technical verification is complete."
+      ]
+    ]
+  },
+  "terms": {
+    "h1": "Terms of service",
+    "updated": "Last updated: September 2026",
+    "body": [
+      [
+        "Use of this website",
+        "Content on this site is provided for information about our services. It does not constitute a contractual offer, a price, or a guarantee."
+      ],
+      [
+        "Project requests",
+        "Submitting a request does not create an engagement. Work begins only under a signed agreement describing scope, price, and terms."
+      ],
+      [
+        "Intellectual property",
+        "Site content and the AI-Group name and logo belong to AI-Group Software and Networks Algorithms LLC."
+      ],
+      [
+        "Limitation",
+        "We provide this site as-is and are not liable for indirect damages arising from its use, to the extent permitted by law."
+      ],
+      [
+        "Governing law",
+        "These terms are governed by the laws of the State of Washington, USA."
+      ]
+    ]
+  }
+}

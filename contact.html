@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contact — AI-Group</title>
+<meta name="description" content="Request a consultation or send us a message. We reply in English, French, Portuguese, or Spanish.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Contact — AI-Group">
+<meta property="og:description" content="Request a consultation or send us a message. We reply in English, French, Portuguese, or Spanish.">
+<meta property="og:site_name" content="AI-Group Software and Networks Algorithms LLC">
+<meta name="theme-color" content="#14213D">
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Organization","name":"AI-Group Software and Networks Algorithms LLC","foundingDate":"2023","address":{"@type":"PostalAddress","addressLocality":"Bellevue","addressRegion":"WA","addressCountry":"US"},"areaServed":"Worldwide","knowsLanguage":["en","fr","pt","es"],"url":"https://alongiti2.github.io/ai-group/"}
+</script>
+</head>
+<body data-page="contact">
+<div id="site-header"></div>
+<main id="main">
+
+<section><div class="wrap"><div class="section-head"><h1 data-i18n="contact.h1"></h1><p class="lead" data-i18n="contact.sub"></p></div>
+<div class="contact-grid">
+<div>
+<form data-form="contact" novalidate>
+  <input class="hp" type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true">
+  <div class="f-grid">
+    <div class="field"><label for="c-name" data-i18n="contact.form.name"></label><input id="c-name" name="name" required autocomplete="name"><p class="err"></p></div>
+    <div class="field"><label for="c-email" data-i18n="contact.form.email"></label><input id="c-email" name="email" type="email" required autocomplete="email"><p class="err"></p></div>
+    <div class="field"><label for="c-company" data-i18n="contact.form.company"></label><input id="c-company" name="company" autocomplete="organization"></div>
+    <div class="field"><label for="c-country" data-i18n="contact.form.country"></label><input id="c-country" name="country" required autocomplete="country-name"><p class="err"></p></div>
+    <div class="field full"><label for="c-cat" data-i18n="contact.form.category"></label><select id="c-cat" name="category" required data-options="contact.categories"></select><p class="err"></p></div>
+    <div class="field full"><label for="c-msg" data-i18n="contact.form.message"></label><textarea id="c-msg" name="message" required></textarea><p class="err"></p></div>
+    <div class="field full"><label class="check"><input type="checkbox" name="consent" required value="yes"><span data-i18n="contact.form.consent"></span></label><p class="err"></p></div>
+  </div>
+  <div class="btn-row"><button class="btn teal" type="submit" data-i18n="contact.form.submit"></button></div>
+</form>
+<div id="form-result" hidden></div>
+</div>
+<aside>
+  <div class="aside-block"><h3 data-i18n="common.email"></h3><p data-render="contactEmail"></p><h3 data-i18n="common.phone"></h3><p data-render="contactPhone"></p></div>
+  <div class="aside-block"><h3 data-i18n="contact.consultTitle"></h3><p data-i18n="contact.consultText"></p></div>
+  <div class="aside-block" id="assistant"><h3 data-i18n="contact.assistantTitle"></h3><p data-i18n="contact.assistantText"></p></div>
+</aside>
+</div></div></section>
+
+</main>
+<div id="site-footer"></div>
+<script src="site.config.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

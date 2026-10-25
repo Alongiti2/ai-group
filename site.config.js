@@ -3,7 +3,7 @@ window.SITE = {
   name: "AI-Group Software and Networks Algorithms LLC",
   shortName: "AI-Group",
   tagline: "Software and Networks Algorithms",
-  founded: 2023,
+  founded: 2021,
   location: "Bellevue, Washington, USA",
   email: "info@example.com",            // <-- replace with the company email
   phone: "",                            // e.g. "+1 (425) 000-0000" (leave blank to hide)

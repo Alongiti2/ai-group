@@ -34,7 +34,7 @@
     },
     "about": {
       "title": "À propos — AI-Group",
-      "desc": "Fondée en 2023 à Bellevue, Washington. Dirigée par un ingénieur senior en cybersécurité avec plus de 20 ans d'expérience."
+      "desc": "Fondée en 2021 à Bellevue, Washington. Dirigée par un ingénieur senior en cybersécurité avec plus de 20 ans d'expérience."
     },
     "contact": {
       "title": "Contact — AI-Group",
@@ -81,7 +81,7 @@
     "cookies": "Cookies",
     "remote": "Au service de clients partout dans le monde, à distance.",
     "rights": "Tous droits réservés.",
-    "founded": "Fondée en 2023 · Bellevue, Washington, États-Unis"
+    "founded": "Fondée le 17 février 2021 · Bellevue, Washington, États-Unis"
   },
   "common": {
     "learnMore": "En savoir plus",
@@ -127,7 +127,7 @@
       ]
     ],
     "introTitle": "Une entreprise technologique fondée sur la sécurité",
-    "intro": "AI-Group Software and Networks Algorithms LLC est une société de Bellevue, Washington, fondée en 2023, au service de clients de tous les pays. Nous construisons les logiciels comme une équipe de sécurité voudrait qu'ils soient construits : modélisation des menaces avant la première ligne de code, tests avant la mise en production et surveillance après le lancement. Nous travaillons en anglais, français, portugais et espagnol avec des particuliers, des startups, des PME, des grandes entreprises, des ONG et des établissements d'enseignement.",
+    "intro": "AI-Group Software and Networks Algorithms LLC est une société de Bellevue, Washington, fondée en 2021, au service de clients de tous les pays. Nous construisons les logiciels comme une équipe de sécurité voudrait qu'ils soient construits : modélisation des menaces avant la première ligne de code, tests avant la mise en production et surveillance après le lancement. Nous travaillons en anglais, français, portugais et espagnol avec des particuliers, des startups, des PME, des grandes entreprises, des ONG et des établissements d'enseignement.",
     "servicesTitle": "Ce que nous faisons",
     "whyTitle": "Pourquoi les organisations nous choisissent",
     "why": [
@@ -716,7 +716,7 @@
   },
   "about": {
     "h1": "À propos d'AI-Group",
-    "sub": "Une société de logiciels, de réseaux et de cybersécurité fondée en 2023 à Bellevue, Washington, au service de clients du monde entier.",
+    "sub": "Une société de logiciels, de réseaux et de cybersécurité fondée en 2021 à Bellevue, Washington, au service de clients du monde entier.",
     "story": "AI-Group Software and Networks Algorithms LLC a été créée pour apporter une ingénierie de sécurité de niveau entreprise aux organisations de toutes tailles. La société réunit architecture logicielle, développement d'applications, ingénierie cloud, ingénierie des bases de données et intelligence artificielle, la cybersécurité étant la discipline qui relie l'ensemble. À travers AI-Global Educational Network (AI-GEN), elle forme aussi la prochaine génération de professionnels de la technologie.",
     "founderTitle": "Direction",
     "founderName": "Delphin — Fondateur et ingénieur principal",

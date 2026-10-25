@@ -61,7 +61,7 @@
     const li = SITE.linkedin ? `<li><a href="${esc(SITE.linkedin)}" rel="noopener">LinkedIn</a></li>` : "";
     return `<footer class="site-footer"><div class="wrap">
       <div class="foot-grid">
-        <div><h3>${esc(SITE.name || "")}</h3><p>${esc(get("footer.remote"))}<br>${esc(get("footer.founded"))}</p>
+        <div><img class="foot-badge" src="assets/logo-badge.svg" alt="AI-Group Software and Networks Algorithms logo" width="120" height="120" loading="lazy"><h3>${esc(SITE.name || "")}</h3><p>${esc(get("footer.remote"))}<br>${esc(get("footer.founded"))}</p>
           <ul>${contact}${phone}${gh}${li}</ul></div>
         <div><h3>${esc(get("footer.company"))}</h3><ul>
           <li><a href="${withLang("about.html")}">${esc(get("nav.about"))}</a></li>
